@@ -1,0 +1,8 @@
+{
+    "sketch": "Turn_on_an_LED.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0",
+    "output": "/home/matthew/Documents/Arduino Experiments/Builds",
+    "debugger": "jlink",
+    "programmer": "ArduinoISP"
+}
